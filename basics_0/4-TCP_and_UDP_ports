@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Dusplay listing TCP/UDP sockets, along with the PID and program name that owns each one
+netstat -lp
